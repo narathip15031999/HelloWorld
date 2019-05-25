@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Anout US</title>
 </head>
-<body>
+<body  style ="background-color:#ffe6ff">
 
 <jsp:include page="include/header.jsp"></jsp:include>
 
